@@ -1,3 +1,3 @@
 # min-presentation
 presentation av mig själv som en del av övningen i kursen
-lägger till v1, test 2
+lägger till v1, test 2, test 3
